@@ -1,4 +1,4 @@
-# sphinxPuppy
+# voice controlled robot
 code repository for a little voice controlled quadruped robot using pocketsphinx
 
 ## how to use
